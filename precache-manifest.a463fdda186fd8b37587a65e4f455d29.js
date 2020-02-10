@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0cc5a469d573c30b97db92ddb0d52558",
+    "revision": "67f51ce9d6bde96bf830ff4c3acb1262",
     "url": "/MoJAArchitekci/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MoJAArchitekci/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "9b8b6c2016aaf07b24d9",
+    "revision": "d0edcc168819d29dd05f",
     "url": "/MoJAArchitekci/static/css/main.035b814d.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MoJAArchitekci/static/js/2.26a09a0d.chunk.js.LICENSE"
   },
   {
-    "revision": "9b8b6c2016aaf07b24d9",
-    "url": "/MoJAArchitekci/static/js/main.22a24a56.chunk.js"
+    "revision": "d0edcc168819d29dd05f",
+    "url": "/MoJAArchitekci/static/js/main.4ad7d5e1.chunk.js"
   },
   {
     "revision": "d4bae06f70eb06d6460d",
