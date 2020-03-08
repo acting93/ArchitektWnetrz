@@ -1,0 +1,134 @@
+.homeSection{
+    position: relative;
+    height: auto;
+    padding: 0px;
+    height: 700px;
+    opacity: 0.9;
+}
+article{
+    position: relative;
+    width:33%;
+    height: 650px;
+    margin-top:0px;
+    margin-left:2px;
+    letter-spacing: 1px;
+    padding: 0px;
+    color:rgb(216, 216, 216);
+    text-align: center;
+    float: left;
+    border-bottom: 5px solid rgb(2, 131, 12);
+    background: #000;
+    opacity: 0.9;
+    font-weight: 400;
+}
+.articleContent{
+    width: 100%;
+    height:80%;
+    padding: 10px;
+    font-size: 15px;
+}
+.articleTitle{
+    font-size: 18px;
+    height: 20%;
+    position: relative;
+    border-bottom: 1px solid white;
+    padding: 10px;
+}
+
+.articleTitle .fas{
+    color:rgb(196, 196, 196);
+    font-size: 45px;
+}
+.articleTitle .far{
+    color:rgb(196, 196, 196);
+    font-size: 45px;
+}
+.articleContent ul{
+    list-style-type: none;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    margin-top: 5%;
+    display: block;
+    padding: 0;
+}
+.articleContent ul li{
+    width: 100%;
+    color: white;
+    padding:30px;
+    font-weight: 400;
+    font-size: 15px;
+    border-bottom: 2px solid silver;
+}
+
+@media(max-width:1030px){
+    article{
+        display: block;
+        height: 700px;
+        padding: 0px;         
+    }
+    .articleContent{
+        width: 100%;
+        padding: 5px;
+        font-size: 13px;
+        
+    }
+}
+@media(max-width:768px){
+    .homeSection{
+        padding: 0px;
+    }
+    article{
+        width:100%;
+        font-size: 15px;
+        padding: 0px;
+        height: auto;
+        margin-bottom: 10px;
+        border-bottom: 1px solid silver;
+        
+    }
+    .articleContent{
+        width: 100%;
+        padding: 25px;
+        height: auto;
+        font-size: 12px;
+        border-right:none;
+    }
+    .articleTitle{
+        font-size: 18px;
+    }
+    
+    .articleTitle .fas{
+        font-size: 20px;
+    }
+    .articleTitle .far{
+        font-size: 20px;
+    }
+    .articleContent ul li{
+        padding: 5px;
+        font-size: 10px;
+        height:auto;
+        width: 100%;
+        padding: 15px;
+        margin: 0px;
+    }
+    
+}
+
+@media(max-width:200px){
+    .articleContent{
+        font-size: 10px;
+        padding: 5px;
+    } 
+    .articleTitle{
+        font-size: 10px;
+    } 
+}
+@media(max-width:100px){
+    .articleContent{
+        font-size: 8px;
+    } 
+    .articleTitle{
+        font-size: 8px;
+    }
+}
