@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b721adeb9b53a6fb7c4e342f673aec7a",
+    "revision": "0840416f4454bbaf0aedc10ed7ee6831",
     "url": "/MoJAArchitekci/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MoJAArchitekci/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "b8a22b4d926f6a042f5d",
-    "url": "/MoJAArchitekci/static/css/main.37b58a97.chunk.css"
+    "revision": "dad8f0cecdaf8d3e3fc2",
+    "url": "/MoJAArchitekci/static/css/main.bcfc69e8.chunk.css"
   },
   {
     "revision": "903db3c1090b579c5ac5",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MoJAArchitekci/static/js/2.309f57ab.chunk.js.LICENSE"
   },
   {
-    "revision": "b8a22b4d926f6a042f5d",
-    "url": "/MoJAArchitekci/static/js/main.c213bc6d.chunk.js"
+    "revision": "dad8f0cecdaf8d3e3fc2",
+    "url": "/MoJAArchitekci/static/js/main.56d40df7.chunk.js"
   },
   {
     "revision": "d4bae06f70eb06d6460d",
@@ -36,12 +36,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MoJAArchitekci/static/media/background6.9d8fe4ba.jpg"
   },
   {
+    "revision": "7cee9ce5fa444d544fcd273042abf223",
+    "url": "/MoJAArchitekci/static/media/bathroom.7cee9ce5.jpg"
+  },
+  {
+    "revision": "6c3c0773e05e0b7a89eda259bacc9e7b",
+    "url": "/MoJAArchitekci/static/media/flat.6c3c0773.jpg"
+  },
+  {
     "revision": "81641d1db87025e39ea6eae947aeb890",
     "url": "/MoJAArchitekci/static/media/inverso.81641d1d.png"
   },
   {
     "revision": "3aaaf6ee21eea960ef4916b7463da868",
     "url": "/MoJAArchitekci/static/media/jumbotron.3aaaf6ee.jpg"
+  },
+  {
+    "revision": "8100637cd606bf6019ad65256a1c4d93",
+    "url": "/MoJAArchitekci/static/media/kitchen.8100637c.jpg"
   },
   {
     "revision": "960b5b4cfb3238345ba1fb21010ea807",
