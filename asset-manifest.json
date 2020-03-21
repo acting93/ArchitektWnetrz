@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/MoJAArchitekci/static/css/main.e31650dd.chunk.css",
-    "main.js": "/MoJAArchitekci/static/js/main.a9d95baa.chunk.js",
-    "main.js.map": "/MoJAArchitekci/static/js/main.a9d95baa.chunk.js.map",
+    "main.css": "/MoJAArchitekci/static/css/main.fa09cc1e.chunk.css",
+    "main.js": "/MoJAArchitekci/static/js/main.c213bc6d.chunk.js",
+    "main.js.map": "/MoJAArchitekci/static/js/main.c213bc6d.chunk.js.map",
     "runtime-main.js": "/MoJAArchitekci/static/js/runtime-main.d32838a1.js",
     "runtime-main.js.map": "/MoJAArchitekci/static/js/runtime-main.d32838a1.js.map",
     "static/css/2.47e06e2e.chunk.css": "/MoJAArchitekci/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.211a0cbb.chunk.js": "/MoJAArchitekci/static/js/2.211a0cbb.chunk.js",
-    "static/js/2.211a0cbb.chunk.js.map": "/MoJAArchitekci/static/js/2.211a0cbb.chunk.js.map",
+    "static/js/2.309f57ab.chunk.js": "/MoJAArchitekci/static/js/2.309f57ab.chunk.js",
+    "static/js/2.309f57ab.chunk.js.map": "/MoJAArchitekci/static/js/2.309f57ab.chunk.js.map",
     "index.html": "/MoJAArchitekci/index.html",
-    "precache-manifest.7e42771540651884ce176892f1a91ef4.js": "/MoJAArchitekci/precache-manifest.7e42771540651884ce176892f1a91ef4.js",
+    "precache-manifest.5b2b7f214d6df468321a0adfea21d71a.js": "/MoJAArchitekci/precache-manifest.5b2b7f214d6df468321a0adfea21d71a.js",
     "service-worker.js": "/MoJAArchitekci/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/MoJAArchitekci/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.e31650dd.chunk.css.map": "/MoJAArchitekci/static/css/main.e31650dd.chunk.css.map",
-    "static/js/2.211a0cbb.chunk.js.LICENSE": "/MoJAArchitekci/static/js/2.211a0cbb.chunk.js.LICENSE",
-    "static/media/App.css": "/MoJAArchitekci/static/media/background3.6cb2a661.jpg",
+    "static/css/main.fa09cc1e.chunk.css.map": "/MoJAArchitekci/static/css/main.fa09cc1e.chunk.css.map",
+    "static/js/2.309f57ab.chunk.js.LICENSE": "/MoJAArchitekci/static/js/2.309f57ab.chunk.js.LICENSE",
+    "static/media/homepage.css": "/MoJAArchitekci/static/media/background6.9d8fe4ba.jpg",
     "static/media/contact.css": "/MoJAArchitekci/static/media/inverso.81641d1d.png",
     "static/media/footer.css": "/MoJAArchitekci/static/media/jumbotron.3aaaf6ee.jpg",
     "static/media/header.css": "/MoJAArchitekci/static/media/logo.960b5b4c.png"
@@ -22,8 +22,8 @@
   "entrypoints": [
     "static/js/runtime-main.d32838a1.js",
     "static/css/2.47e06e2e.chunk.css",
-    "static/js/2.211a0cbb.chunk.js",
-    "static/css/main.e31650dd.chunk.css",
-    "static/js/main.a9d95baa.chunk.js"
+    "static/js/2.309f57ab.chunk.js",
+    "static/css/main.fa09cc1e.chunk.css",
+    "static/js/main.c213bc6d.chunk.js"
   ]
 }
