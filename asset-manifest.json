@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/MoJAArchitekci/static/css/main.2d19f44b.chunk.css",
-    "main.js": "/MoJAArchitekci/static/js/main.d36cbd6d.chunk.js",
-    "main.js.map": "/MoJAArchitekci/static/js/main.d36cbd6d.chunk.js.map",
+    "main.js": "/MoJAArchitekci/static/js/main.09689b54.chunk.js",
+    "main.js.map": "/MoJAArchitekci/static/js/main.09689b54.chunk.js.map",
     "runtime-main.js": "/MoJAArchitekci/static/js/runtime-main.d32838a1.js",
     "runtime-main.js.map": "/MoJAArchitekci/static/js/runtime-main.d32838a1.js.map",
     "static/css/2.47e06e2e.chunk.css": "/MoJAArchitekci/static/css/2.47e06e2e.chunk.css",
     "static/js/2.309f57ab.chunk.js": "/MoJAArchitekci/static/js/2.309f57ab.chunk.js",
     "static/js/2.309f57ab.chunk.js.map": "/MoJAArchitekci/static/js/2.309f57ab.chunk.js.map",
     "index.html": "/MoJAArchitekci/index.html",
-    "precache-manifest.29fc474b7a19cdf900dd664d3c7c2ffe.js": "/MoJAArchitekci/precache-manifest.29fc474b7a19cdf900dd664d3c7c2ffe.js",
+    "precache-manifest.d28c4d6a3443c0f8e8fb5bbcec987d34.js": "/MoJAArchitekci/precache-manifest.d28c4d6a3443c0f8e8fb5bbcec987d34.js",
     "service-worker.js": "/MoJAArchitekci/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/MoJAArchitekci/static/css/2.47e06e2e.chunk.css.map",
     "static/css/main.2d19f44b.chunk.css.map": "/MoJAArchitekci/static/css/main.2d19f44b.chunk.css.map",
@@ -25,6 +25,6 @@
     "static/css/2.47e06e2e.chunk.css",
     "static/js/2.309f57ab.chunk.js",
     "static/css/main.2d19f44b.chunk.css",
-    "static/js/main.d36cbd6d.chunk.js"
+    "static/js/main.09689b54.chunk.js"
   ]
 }
