@@ -59,7 +59,7 @@ class Navigation extends Component {
                                 <NavLink to="/cennik">Cennik</NavLink>
                                 <NavLink to="/portfolio">Portfolio</NavLink>
                                 <NavLink to="/uslugi">Nasze Usługi</NavLink>
-                                <NavLink to="/contact">Kontakt</NavLink>
+                                <NavLink to="/kontakt">Kontakt</NavLink>
                             </Nav>
                     </Navbar.Collapse>
             </Navbar>

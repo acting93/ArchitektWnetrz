@@ -1,13 +1,9 @@
 footer{
     width:100%;
     height: auto;
-    color: black;
+    color: rgb(0, 0, 0);
     display: -webkit-box;
     display: flex;
-    background: #000;
-    opacity: 0.9;
-    background:url('../images/jumbotron.jpg');
-    
 }
 .footerDiv{
     height: auto;
@@ -15,8 +11,6 @@ footer{
             flex-grow: 1;
     text-align: center;
     padding: 20px;
-    opacity: 0.7;
-    background-color: black;
 }
 .footerDiv img{
     width:150px;
@@ -45,14 +39,14 @@ footer{
 }
 .iconsContact span p{
     margin-top: 10px;
-    color:white;
+    color:rgb(0, 0, 0);
 }
 .iconsContact span:last-child{
     border-right: none;
 }
 
 .fas{
-    color: rgb(253, 253, 253);
+    color: rgb(0, 0, 0);
     font-size: 40px;
 }
 @media(max-width:992px){

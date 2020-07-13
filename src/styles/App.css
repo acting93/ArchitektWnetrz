@@ -1,29 +1,3 @@
-
-.jumbotron{
-    background:url('../images/background3.jpg');
-    background-size: 100% auto;
-    background-attachment: fixed;
-    background-origin: content-box;
-    background-repeat: no-repeat;
-    background-position: cover;
-    height: 360px;
-    padding: 0px;
-    text-align: center;
-    border-bottom: 2px solid black;
-}
-@media(max-width:992px){
-    .jumbotron{
-        height: 250px;
-    }
-}
-@media(max-width:576px){
-    .jumbotron{
-        height: auto;
-        background-size: cover;
-        background-position: center;
-    }
-}
-
 .cookie{
     width:100%;
     height:auto;

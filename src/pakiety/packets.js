@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
 import '../styles/cennik.css'
 import Range from './range';
-import Pakiet from './pakiet';
+import Packet from './packet';
 import PakietyJSON from '../pakiety.json'
 
-class Pakiety extends Component {
+class Packets extends Component {
 
     constructor(props){
     super(props)
@@ -60,25 +60,6 @@ class Pakiety extends Component {
     }
   
     componentDidMount(){
-           /* fetch('../pakiety.json',newRequest,{
-                method:'GET',
-                mode:'cors',
-                headers:{'Content-Type':'application/json'},
-                cache:'default'
-            })
-            .then(response =>{
-                if(response.ok){
-                    return response
-                }
-                throw Error(response.status)
-            })
-            .then(response => response.json())
-            .then(data =>{
-                this.setState({
-                    pakiety:data.pakiet
-                })
-            })
-            .catch(error => console.log("error"))*/
             this.setState({
                 pakiety:PakietyJSON.pakiet
             })
@@ -92,8 +73,8 @@ class Pakiety extends Component {
     render() { 
         return ( 
             <>
-            <section className="pakiety">
-                <Pakiet value={this.state.pakiety} onMouseEnter={this.handleHover} onMouseLeave={this.offHover} />
+            <section className="pakiety col-12">
+                    <Packet value={this.state.pakiety} onMouseEnter={this.handleHover} onMouseLeave={this.offHover} />
             </section>
             <Range getTotal={this.handleTotal}/> 
             </>
@@ -102,4 +83,4 @@ class Pakiety extends Component {
 }
 
  
-export default Pakiety;
+export default Packets;

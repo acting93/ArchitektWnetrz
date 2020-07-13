@@ -16,10 +16,8 @@ class App extends Component {
     return ( 
           <Router onUpdate={() => window.scrollTo(0, 0)}>
             <ScrollToTop>
-                <Jumbotron fluid>
                   <Header/>
                   <Navigation/>
-                </Jumbotron>
                 <Section/>
                 <Footer />
             </ScrollToTop>

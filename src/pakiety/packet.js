@@ -1,6 +1,7 @@
 import React from 'react';
 import Element from './Element'
-const Pakiet = (props) => {
+
+const Packet = (props) => {
     const information = props.value.map(item => <Element key={item.id} id={item.id} name={item.name} prize={item.cena} description={item.opis} /> )
     return ( 
         <>
@@ -9,6 +10,6 @@ const Pakiet = (props) => {
      );
 }
  
-export default Pakiet;
+export default Packet;
 
  
