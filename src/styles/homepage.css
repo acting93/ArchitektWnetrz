@@ -1,0 +1,291 @@
+.homeSection{
+    position: relative;
+    height: auto;
+    padding: 0px !important;
+}
+.articleHomepage{
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    padding: 0px !important;
+    
+}
+.articleHomepage:first-child{
+    color: rgb(0, 0, 0);
+    background: url('../images/background2.jpg');
+    background-size: 100%;
+    background-position: center;
+    padding: 0 !important;
+    height: auto;
+}
+.articleHomepage:first-child .homepageContent{
+    width: 100%;
+    background: rgba(0, 0, 0, 0.541);
+}
+.articleHomepage:first-child .homepageTitle{
+    width: 50%; 
+    padding: 30px;
+    text-align: left;
+    font-size: 40px;
+    font-weight: 800;
+    color: rgb(255, 255, 255);
+}
+.articleHomepage:first-child .homepageText{
+    width: 50%; 
+    padding: 50px;
+    font-size: 18px;
+    text-align: left;
+    font-weight: 800;
+    color: rgb(255, 255, 255);
+}
+.fa-check{
+    margin-right: 10px;
+}
+.articleHomepage:nth-child(2){
+    width: 100%;
+    height: 400px;
+    background-color:rgb(80, 80, 80);
+    color:silver
+}
+.articleHomepage:nth-child(2) .homepagePhoto{
+    background:url('../images/background6.jpg');
+    background-position: cover;
+    background-size: 100% 100%;
+}
+.articleHomepage:nth-child(2) .homepageTitle{
+    width: 100%;
+    font-weight: 800;
+    padding: 30px;
+}
+.articleHomepage:nth-child(2) .homepageText{
+    width: 100%;
+    font-weight: 800;
+    padding: 30px;
+}
+.articleHomepage:nth-child(3){
+    width: 100%;
+    height: 300px;
+    color:rgb(236, 236, 236);
+    background:url('../images/background.jpg') fixed;
+    background-size: cover;
+    display: block;
+    border:1px solid black;
+}
+.articleHomepage:nth-child(3) .homepageContent{
+    position: relative;
+    width: 100%;
+    height: 80%;
+    padding: 0px;
+    background:rgba(0, 0, 0, 0.692);
+}
+.articleHomepage:nth-child(3) .homepagePhoto{
+    position: relative;
+    width: 100%;
+    height: auto;
+    padding: 0;
+    background:rgba(0, 0, 0, 0.692);
+}
+.articleHomepage:nth-child(3) .homepageText{
+    width: 100%;
+    font-weight: 600;
+    padding: 0px;
+}
+.articleHomepage:nth-child(3) .homepageTitle{
+    width: 100%;
+    font-weight: 800;
+    padding: 5px;
+}
+.articleHomepage ul{
+    height: 100%;
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    padding: 0;
+}
+.articleHomepage ul li{
+    text-align: center;
+    flex-grow: 1;
+    height: 100%;
+    padding: 20px;
+}
+
+.homepagePhoto{
+    width:50%;
+    text-align: center;
+}
+.homepagePhoto img{
+    margin: 0 auto;
+    width:100%;
+    height: 100%;
+    box-shadow: 0px 0px 5px black;
+}
+.homepageContent{
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+    display: block;
+}
+.homepageTitle{
+    font-size: 30px;
+    display: block;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+.homepageText{
+    display: block;
+    font-size: 18px;
+    text-align: left;
+}
+@media(max-width:1200px){
+    .articleHomepage:nth-child(2){
+        height: auto;
+    }
+    .articleHomepage:first-child .homepageTitle{
+        font-size: 25px;
+        width: 100%;
+        padding: 10px;
+    }
+    .articleHomepage:first-child .homepageText{
+        font-size: 15px;
+        width: 100%;
+        padding: 10px;
+    }
+     .articleHomepage:nth-child(2) .homepageTitle{
+        font-size: 20px;
+        width: 100%;
+        height: 20%;
+        padding: 20px;
+    }
+    .articleHomepage:nth-child(2) .homepageText{
+        font-size: 13px;
+        width: 100%;
+        height: 80%;
+        padding: 20px;
+    }
+    .articleHomepage ul{
+        display: block;
+    }
+    .articleHomepage ul li{
+        display: block;
+        padding: 5px;
+        font-size: 15px;
+    }
+}
+@media(max-width:768px){
+    .articleHomepage:first-child .homepageTitle{
+        font-size: 30px;
+        width: 100%;
+        padding: 10px;
+    }
+    .articleHomepage:first-child .homepageText{
+        font-size: 15px;
+        width: 100%;
+        padding: 10px;
+    }
+    .articleHomepage:nth-child(2) .homepageTitle{
+        font-size: 18px;
+        width: 100%;
+        padding: 10px;
+    }
+    .articleHomepage:nth-child(2) .homepageText{
+        font-size: 13px;
+        width: 100%;
+        padding: 15px;
+    }
+    .articleHomepage ul li{
+        padding: 5px;
+        font-size: 15px;
+    }
+}
+@media(max-width:576px){
+    .articleHomepage:first-child{
+        background-size: cover;
+    }
+    .articleHomepage:first-child .homepageTitle{
+        font-size: 20px;
+        width: 100%;
+        padding: 5px;
+    }
+    .articleHomepage:first-child .homepageText{
+        font-size: 13px;
+        width: 100%;
+        padding: 5px;
+        font-weight: 500;
+    }
+    .articleHomepage:nth-child(2){
+        background: url('../images/background6.jpg');
+        background-size: 100%;
+        background-repeat: no-repeat;
+    }
+    .articleHomepage:nth-child(2) .homepageContent{
+        width:100%;
+        height:100%;
+        background: rgba(0, 0, 0, 0.671);
+        color: white;
+        font-weight: 400;
+    }
+    .articleHomepage:nth-child(2) .homepagePhoto{
+        display: none;
+    }
+    .articleHomepage:nth-child(2) .homepageTitle{
+        font-size: 20px;
+        padding: 5px;
+    }
+    .articleHomepage:nth-child(3){
+        display: block;
+        height: auto;
+    }
+    .articleHomepage:nth-child(3) .homepagePhoto{
+        width: 100%;
+        height: 20%;
+    }
+     .articleHomepage:nth-child(3) .homepageContent{
+        width:100%;
+        height:70%;
+    }
+    .articleHomepage:nth-child(3) .homepageTitle{
+        font-size: 20px;
+        width: 100%;
+        padding: 10px;
+       
+    }
+    .articleHomepage:nth-child(3) .homepageText{
+        font-size: 13px;
+        width: 100%;
+        padding: 5px;
+        font-weight: 500;
+        
+    }
+    .articleHomepage ul li{
+        padding: 5px;
+        font-size: 13px;
+    }
+}
+@media(max-width:300px){
+     .articleHomepage:first-child .homepageTitle{
+        font-size: 15px;
+        width: 100%;
+        padding: 2px;
+    }
+    .articleHomepage:first-child .homepageText{
+        font-size: 12px;
+        padding: 2px;
+    }
+    .articleHomepage:nth-child(2) .homepageTitle{
+        font-size: 15px;
+        padding: 2px;
+    }
+   .articleHomepage:nth-child(3) .homepageTitle{
+        font-size: 15px;
+        padding: 2px;
+    }
+    .articleHomepage:nth-child(2) .homepageText{
+        font-size: 13px;
+        width: 100%;
+        padding: 5px;
+    }
+    .articleHomepage ul li{
+        padding: 5px;
+        font-size: 13px;
+    }
+}

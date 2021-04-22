@@ -1,0 +1,9 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+    padding: 0px;
+   /* background-image: linear-gradient(to bottom, rgb(255, 255, 255) 60%,rgb(61, 61, 61));*/
+  /*  background:url('../images/jumbotron.jpg') no-repeat;
+    background-position: cover;
+    background-size: cover;*/
+}
