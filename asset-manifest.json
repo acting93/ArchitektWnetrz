@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/MoJAArchitekci/static/css/main.e6d07203.chunk.css",
-    "main.js": "/MoJAArchitekci/static/js/main.d4946aaf.chunk.js",
-    "main.js.map": "/MoJAArchitekci/static/js/main.d4946aaf.chunk.js.map",
+    "main.css": "/MoJAArchitekci/static/css/main.bb83cef9.chunk.css",
+    "main.js": "/MoJAArchitekci/static/js/main.6127bb93.chunk.js",
+    "main.js.map": "/MoJAArchitekci/static/js/main.6127bb93.chunk.js.map",
     "runtime-main.js": "/MoJAArchitekci/static/js/runtime-main.d32838a1.js",
     "runtime-main.js.map": "/MoJAArchitekci/static/js/runtime-main.d32838a1.js.map",
     "static/css/2.47e06e2e.chunk.css": "/MoJAArchitekci/static/css/2.47e06e2e.chunk.css",
     "static/js/2.60a3e313.chunk.js": "/MoJAArchitekci/static/js/2.60a3e313.chunk.js",
     "static/js/2.60a3e313.chunk.js.map": "/MoJAArchitekci/static/js/2.60a3e313.chunk.js.map",
     "index.html": "/MoJAArchitekci/index.html",
-    "precache-manifest.76e90be59a856dadbdbdb46a4e6fcb66.js": "/MoJAArchitekci/precache-manifest.76e90be59a856dadbdbdb46a4e6fcb66.js",
+    "precache-manifest.8b5939cab92c3b4fc1fb49703d47d45b.js": "/MoJAArchitekci/precache-manifest.8b5939cab92c3b4fc1fb49703d47d45b.js",
     "service-worker.js": "/MoJAArchitekci/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/MoJAArchitekci/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.e6d07203.chunk.css.map": "/MoJAArchitekci/static/css/main.e6d07203.chunk.css.map",
+    "static/css/main.bb83cef9.chunk.css.map": "/MoJAArchitekci/static/css/main.bb83cef9.chunk.css.map",
     "static/js/2.60a3e313.chunk.js.LICENSE": "/MoJAArchitekci/static/js/2.60a3e313.chunk.js.LICENSE",
     "static/media/homepage.css": "/MoJAArchitekci/static/media/background2.eb161edf.jpg",
     "static/media/contact.css": "/MoJAArchitekci/static/media/background6.9d8fe4ba.jpg",
@@ -24,7 +24,7 @@
     "static/js/runtime-main.d32838a1.js",
     "static/css/2.47e06e2e.chunk.css",
     "static/js/2.60a3e313.chunk.js",
-    "static/css/main.e6d07203.chunk.css",
-    "static/js/main.d4946aaf.chunk.js"
+    "static/css/main.bb83cef9.chunk.css",
+    "static/js/main.6127bb93.chunk.js"
   ]
 }

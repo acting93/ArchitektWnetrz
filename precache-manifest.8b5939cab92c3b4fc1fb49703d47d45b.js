@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "00faf08020426d04937890dd69060076",
+    "revision": "f09ff1df058560f879cb22a4473c3b1e",
     "url": "/MoJAArchitekci/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MoJAArchitekci/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "4d04a477d6da432a7244",
-    "url": "/MoJAArchitekci/static/css/main.e6d07203.chunk.css"
+    "revision": "376947d4fd3f315c4e67",
+    "url": "/MoJAArchitekci/static/css/main.bb83cef9.chunk.css"
   },
   {
     "revision": "5a3956b7fb808624bce6",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MoJAArchitekci/static/js/2.60a3e313.chunk.js.LICENSE"
   },
   {
-    "revision": "4d04a477d6da432a7244",
-    "url": "/MoJAArchitekci/static/js/main.d4946aaf.chunk.js"
+    "revision": "376947d4fd3f315c4e67",
+    "url": "/MoJAArchitekci/static/js/main.6127bb93.chunk.js"
   },
   {
     "revision": "d4bae06f70eb06d6460d",
