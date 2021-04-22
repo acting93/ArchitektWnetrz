@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/MoJAArchitekci/static/css/main.bb83cef9.chunk.css",
-    "main.js": "/MoJAArchitekci/static/js/main.6127bb93.chunk.js",
-    "main.js.map": "/MoJAArchitekci/static/js/main.6127bb93.chunk.js.map",
+    "main.js": "/MoJAArchitekci/static/js/main.a514f236.chunk.js",
+    "main.js.map": "/MoJAArchitekci/static/js/main.a514f236.chunk.js.map",
     "runtime-main.js": "/MoJAArchitekci/static/js/runtime-main.d32838a1.js",
     "runtime-main.js.map": "/MoJAArchitekci/static/js/runtime-main.d32838a1.js.map",
     "static/css/2.47e06e2e.chunk.css": "/MoJAArchitekci/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.60a3e313.chunk.js": "/MoJAArchitekci/static/js/2.60a3e313.chunk.js",
-    "static/js/2.60a3e313.chunk.js.map": "/MoJAArchitekci/static/js/2.60a3e313.chunk.js.map",
+    "static/js/2.593eba0f.chunk.js": "/MoJAArchitekci/static/js/2.593eba0f.chunk.js",
+    "static/js/2.593eba0f.chunk.js.map": "/MoJAArchitekci/static/js/2.593eba0f.chunk.js.map",
     "index.html": "/MoJAArchitekci/index.html",
-    "precache-manifest.8b5939cab92c3b4fc1fb49703d47d45b.js": "/MoJAArchitekci/precache-manifest.8b5939cab92c3b4fc1fb49703d47d45b.js",
+    "precache-manifest.ba5fd1114d130a488fa40106b18cca9d.js": "/MoJAArchitekci/precache-manifest.ba5fd1114d130a488fa40106b18cca9d.js",
     "service-worker.js": "/MoJAArchitekci/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/MoJAArchitekci/static/css/2.47e06e2e.chunk.css.map",
     "static/css/main.bb83cef9.chunk.css.map": "/MoJAArchitekci/static/css/main.bb83cef9.chunk.css.map",
-    "static/js/2.60a3e313.chunk.js.LICENSE": "/MoJAArchitekci/static/js/2.60a3e313.chunk.js.LICENSE",
+    "static/js/2.593eba0f.chunk.js.LICENSE": "/MoJAArchitekci/static/js/2.593eba0f.chunk.js.LICENSE",
     "static/media/homepage.css": "/MoJAArchitekci/static/media/background2.eb161edf.jpg",
     "static/media/contact.css": "/MoJAArchitekci/static/media/background6.9d8fe4ba.jpg",
     "static/media/cennik.css": "/MoJAArchitekci/static/media/kitchen.8100637c.jpg",
@@ -23,8 +23,8 @@
   "entrypoints": [
     "static/js/runtime-main.d32838a1.js",
     "static/css/2.47e06e2e.chunk.css",
-    "static/js/2.60a3e313.chunk.js",
+    "static/js/2.593eba0f.chunk.js",
     "static/css/main.bb83cef9.chunk.css",
-    "static/js/main.6127bb93.chunk.js"
+    "static/js/main.a514f236.chunk.js"
   ]
 }
