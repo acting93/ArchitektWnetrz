@@ -14,7 +14,7 @@ class Section extends Component {
             <>
                 <section className="col-12 sectionRoute">
                     <Switch>
-                        {/*<Route path={process.env.PUBLIC_URL + "/"} component={HomePage} />*/}
+                        <Route path={process.env.PUBLIC_URL + "/"} component={HomePage} />
                         <Route exact path="/" component={HomePage}/>
                         <Route path="/cennik" component={PrizeList}/>
                         <Route path="/portfolio" component={Portfolio}/>

@@ -6,7 +6,7 @@ import Navigation from './components/Navbar.js'
 import Header from './components/Header.js'
 import Section from './components/Section.js'
 import Footer from './components/Footer.js'
-import { Jumbotron } from 'react-bootstrap';
+//import { Jumbotron } from 'react-bootstrap';
 import ScrollToTop from 'react-router-scroll-top';
 //import Cookies from './Cookies.js'
 
@@ -16,8 +16,8 @@ class App extends Component {
     return ( 
           <Router onUpdate={() => window.scrollTo(0, 0)}>
             <ScrollToTop>
-                  <Header/>
-                  <Navigation/>
+                <Header/>
+                <Navigation/>
                 <Section/>
                 <Footer />
             </ScrollToTop>

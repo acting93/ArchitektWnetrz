@@ -11,7 +11,6 @@
     "bootstrap": "^4.4.1",
     "cors": "^2.8.5",
     "express": "^4.17.1",
-    "gh-pages": "^2.2.0",
     "jquery": "^3.4.1",
     "nodemailer": "^6.4.2",
     "react": "^16.12.0",
@@ -23,8 +22,8 @@
     "react-scripts": "3.3.0"
   },
   "scripts": {
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -47,7 +46,9 @@
   },
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "index.js",
-  "devDependencies": {},
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC"
