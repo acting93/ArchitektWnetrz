@@ -22,15 +22,14 @@ class Contact extends Component {
                          <div className="mapConent">
                             <div className="contactDiv">
                                 <div className="adress">
-                                    <h2>Mo.J.A architekci</h2>
+                                    <h2>Architekt Wnętrz</h2>
                                     <p>ul.XYZ X/X, 00-545 Warszawa</p>
-                                    <p>Monika: +48 xxx xxx xxx</p>
-                                    <p>Anna: +48 xxx xxx xxx</p>
-                                    <p>Jacek: +48 xxx xxx xxx</p>
-                                    <p>E-mail: xyz@xyz.pl</p>
-                                    <p>Obserwuj nas na:</p>
-                                    <span><a href='https://www.facebook.com/MoJArchitekci/'><i className='fab fa-facebook-f'></i></a></span>
-                                    <span><a href='../subpages/cennik.js'><i className='fab fa-instagram'></i></a></span>
+                                    <p>Ryszard: +48 xxx xxx xxx</p>
+                                    <p>Edek: +48 xxx xxx xxx</p>
+                                    <p>Antek: +48 xxx xxx xxx</p>
+                                    <p>E-mail: architektestwebsite@xyz.pl</p>
+                                    {/*<span><a href=''><i className='fab fa-facebook-f'></i></a></span>*/}
+                                    {/*<span><a href=''><i className='fab fa-instagram'></i></a></span>*/}
                                 </div>
                             </div>
                          </div> 

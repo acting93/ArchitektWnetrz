@@ -17,8 +17,8 @@ class Section extends Component {
                         <Route path={process.env.PUBLIC_URL + "/"} component={HomePage} />
                         <Route exact path="/" component={HomePage}/>
                         <Route path="/cennik" component={PrizeList}/>
-                        <Route path="/portfolio" component={Portfolio}/>
-                        <Route path="/uslugi" component={Services}/>
+                        {/*<Route path="/portfolio" component={Portfolio}/>*/}
+                        {/*<Route path="/uslugi" component={Services}/>*/}
                         <Route path="/kontakt" component={Contact}/>
                     </Switch>
                 </section>

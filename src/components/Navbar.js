@@ -58,8 +58,8 @@ class Navigation extends Component {
                             <Nav className="mr-auto navContent col-xl-10" onClick={this.closeNav}>
                                 <NavLink exact to="/">O nas</NavLink>
                                 <NavLink to="/cennik">Cennik</NavLink>
-                                <NavLink to="/portfolio">Portfolio</NavLink>
-                                <NavLink to="/uslugi">Nasze Usługi</NavLink>
+                                {/*<NavLink to="/portfolio">Portfolio</NavLink>*/}
+                                {/*<NavLink to="/uslugi">Nasze Usługi</NavLink>*/}
                                 <NavLink to="/kontakt">Kontakt</NavLink>
                             </Nav>
                     </Navbar.Collapse>

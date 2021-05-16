@@ -5,10 +5,6 @@ import TextArticle from '../textArticles/TextArticle.js'
 
 class HomePage extends Component {
     
-    state={
-        value:""
-    }  
-
    render() { 
         return ( 
            <> 

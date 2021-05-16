@@ -9,8 +9,8 @@ const Header = () => {
                 <div className="logo"><img src={logo} alt="Logo" /></div>
                 <div className="socials">
                     <p>Śledź nas na:</p>
-                    <span><a href='https://www.facebook.com/MoJArchitekci/'><i className='fab fa-facebook-f'></i></a></span>
-                    <span><a href='../subpages/cennik.js'><i className='fab fa-instagram'></i></a></span>
+                    <span><a href=''><i className='fab fa-facebook-f'></i></a></span>
+                    <span><a href=''><i className='fab fa-instagram'></i></a></span>
                 </div>
             </header>
         </>        

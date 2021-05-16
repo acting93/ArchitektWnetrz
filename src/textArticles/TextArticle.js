@@ -1,6 +1,5 @@
 import React from 'react';
 import '../styles/homepage.css'
-import img1 from '../images/jumbotron.jpg'
 
 const TextArticle = () => {
     return ( 
@@ -29,17 +28,14 @@ const TextArticle = () => {
             </article>
 
             <article className='articleHomepage col-12'>
-                <div className="homepagePhoto"><span className='homepageTitle'>Co robimy?</span></div>
+                <div className="homepageTitle"><p>Co robimy?</p></div>
                 <div className="homepageContent">
-                    <span className='homepageText'>
-                        <ul>
-                            <li>Nasze projekty opieramy na wiedzy.</li>
-                            <li>Obserwujemy.</li>
-                            <li>Doświadczamy.</li>
-                            <li>Zastanawiamy się.</li>
-                            <li>Projektowanie to dla nas nieustający proces.</li>
-                        </ul>
-                    </span>
+                    <ul>
+                        <li><p>Nasze projekty opieramy na wiedzy</p></li>
+                        <li><p>Obserwujemy</p></li>
+                        <li><p>Doświadczamy</p></li>
+                        <li><p>Projektowanie to dla nas nieustający proces</p></li>
+                    </ul>
                  </div>
             </article>
         </>
