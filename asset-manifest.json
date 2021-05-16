@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/MoJAArchitekci/static/css/main.bb83cef9.chunk.css",
-    "main.js": "/MoJAArchitekci/static/js/main.91e12462.chunk.js",
-    "main.js.map": "/MoJAArchitekci/static/js/main.91e12462.chunk.js.map",
+    "main.css": "/MoJAArchitekci/static/css/main.a5fd7f07.chunk.css",
+    "main.js": "/MoJAArchitekci/static/js/main.b648c611.chunk.js",
+    "main.js.map": "/MoJAArchitekci/static/js/main.b648c611.chunk.js.map",
     "runtime-main.js": "/MoJAArchitekci/static/js/runtime-main.d32838a1.js",
     "runtime-main.js.map": "/MoJAArchitekci/static/js/runtime-main.d32838a1.js.map",
     "static/css/2.47e06e2e.chunk.css": "/MoJAArchitekci/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.593eba0f.chunk.js": "/MoJAArchitekci/static/js/2.593eba0f.chunk.js",
-    "static/js/2.593eba0f.chunk.js.map": "/MoJAArchitekci/static/js/2.593eba0f.chunk.js.map",
+    "static/js/2.3434929b.chunk.js": "/MoJAArchitekci/static/js/2.3434929b.chunk.js",
+    "static/js/2.3434929b.chunk.js.map": "/MoJAArchitekci/static/js/2.3434929b.chunk.js.map",
     "index.html": "/MoJAArchitekci/index.html",
-    "precache-manifest.330d0bbe255003fbdcae5715fd8f8a57.js": "/MoJAArchitekci/precache-manifest.330d0bbe255003fbdcae5715fd8f8a57.js",
+    "precache-manifest.0ddc3f075d11b5f4d845a97b03d13556.js": "/MoJAArchitekci/precache-manifest.0ddc3f075d11b5f4d845a97b03d13556.js",
     "service-worker.js": "/MoJAArchitekci/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/MoJAArchitekci/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.bb83cef9.chunk.css.map": "/MoJAArchitekci/static/css/main.bb83cef9.chunk.css.map",
-    "static/js/2.593eba0f.chunk.js.LICENSE": "/MoJAArchitekci/static/js/2.593eba0f.chunk.js.LICENSE",
+    "static/css/main.a5fd7f07.chunk.css.map": "/MoJAArchitekci/static/css/main.a5fd7f07.chunk.css.map",
+    "static/js/2.3434929b.chunk.js.LICENSE": "/MoJAArchitekci/static/js/2.3434929b.chunk.js.LICENSE",
     "static/media/homepage.css": "/MoJAArchitekci/static/media/background2.eb161edf.jpg",
     "static/media/contact.css": "/MoJAArchitekci/static/media/background6.9d8fe4ba.jpg",
     "static/media/cennik.css": "/MoJAArchitekci/static/media/kitchen.8100637c.jpg",
     "static/media/jumbotron.jpg": "/MoJAArchitekci/static/media/jumbotron.3aaaf6ee.jpg",
-    "static/media/header.css": "/MoJAArchitekci/static/media/logo.960b5b4c.png"
+    "static/media/header.css": "/MoJAArchitekci/static/media/logo.bb1a7ddc.png"
   },
   "entrypoints": [
     "static/js/runtime-main.d32838a1.js",
     "static/css/2.47e06e2e.chunk.css",
-    "static/js/2.593eba0f.chunk.js",
-    "static/css/main.bb83cef9.chunk.css",
-    "static/js/main.91e12462.chunk.js"
+    "static/js/2.3434929b.chunk.js",
+    "static/css/main.a5fd7f07.chunk.css",
+    "static/js/main.b648c611.chunk.js"
   ]
 }

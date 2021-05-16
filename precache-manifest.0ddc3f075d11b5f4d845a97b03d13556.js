@@ -1,35 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "433688a7771fcd18287cb484fec953e7",
+    "revision": "e72156b22242a393b31d519bc51e86d2",
     "url": "/MoJAArchitekci/index.html"
   },
   {
-    "revision": "8c4d01c007cc92672c3d",
+    "revision": "11086fde3a934c50d6a1",
     "url": "/MoJAArchitekci/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "d9627f47b86d9ce002e5",
-    "url": "/MoJAArchitekci/static/css/main.bb83cef9.chunk.css"
+    "revision": "b0aee1085621bdb02bae",
+    "url": "/MoJAArchitekci/static/css/main.a5fd7f07.chunk.css"
   },
   {
-    "revision": "8c4d01c007cc92672c3d",
-    "url": "/MoJAArchitekci/static/js/2.593eba0f.chunk.js"
+    "revision": "11086fde3a934c50d6a1",
+    "url": "/MoJAArchitekci/static/js/2.3434929b.chunk.js"
   },
   {
     "revision": "86afaa925e0f432774bf95b19b6933fb",
-    "url": "/MoJAArchitekci/static/js/2.593eba0f.chunk.js.LICENSE"
+    "url": "/MoJAArchitekci/static/js/2.3434929b.chunk.js.LICENSE"
   },
   {
-    "revision": "d9627f47b86d9ce002e5",
-    "url": "/MoJAArchitekci/static/js/main.91e12462.chunk.js"
+    "revision": "b0aee1085621bdb02bae",
+    "url": "/MoJAArchitekci/static/js/main.b648c611.chunk.js"
   },
   {
     "revision": "d4bae06f70eb06d6460d",
     "url": "/MoJAArchitekci/static/js/runtime-main.d32838a1.js"
-  },
-  {
-    "revision": "2c62546a69a211d8760f2b15b403cad4",
-    "url": "/MoJAArchitekci/static/media/background.2c62546a.jpg"
   },
   {
     "revision": "eb161edf96cce3dca7c3726c9e187aff",
@@ -64,7 +60,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MoJAArchitekci/static/media/kitchen.8100637c.jpg"
   },
   {
-    "revision": "960b5b4cfb3238345ba1fb21010ea807",
-    "url": "/MoJAArchitekci/static/media/logo.960b5b4c.png"
+    "revision": "bb1a7ddcf1380d0ca3e5cadb100f9e59",
+    "url": "/MoJAArchitekci/static/media/logo.bb1a7ddc.png"
   }
 ]);
