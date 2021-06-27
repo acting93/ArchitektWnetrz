@@ -71,12 +71,13 @@
     display: block;
     border-top:8px solid white;
     border-bottom: 8px solid black;
+    background:linear-gradient(to bottom,black 10%,rgba(0, 0, 0, 0) 90%),url('../images/background6.jpg') fixed;
 }
 .articleHomepage:nth-child(3) .homepageTitle{
     width: 100%;
     font-weight: 800;
     padding: 5px;
-    background: rgb(0, 0, 0);
+    background: none;
     text-align: center;
 }
 .articleHomepage:nth-child(3) .homepageContent{
@@ -104,11 +105,11 @@
     box-shadow: 0 0 5px black;
 }
 .articleHomepage:nth-child(3) .homepageContent ul li:nth-child(odd){
-    background: rgb(255, 255, 255);
+    background: rgba(255, 255, 255, 0.685);
     color: black;
 }
 .articleHomepage:nth-child(3) .homepageContent ul li:nth-child(even){
-    background: rgb(41, 41, 41);
+    background: rgba(41, 41, 41, 0.795);
 }
 .articleHomepage:nth-child(3) .homepageContent ul li p{
     position: relative;
