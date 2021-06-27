@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/MoJAArchitekci/static/css/main.a5fd7f07.chunk.css",
-    "main.js": "/MoJAArchitekci/static/js/main.89ff70ec.chunk.js",
-    "main.js.map": "/MoJAArchitekci/static/js/main.89ff70ec.chunk.js.map",
-    "runtime-main.js": "/MoJAArchitekci/static/js/runtime-main.d32838a1.js",
-    "runtime-main.js.map": "/MoJAArchitekci/static/js/runtime-main.d32838a1.js.map",
-    "static/css/2.47e06e2e.chunk.css": "/MoJAArchitekci/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.721ee9ae.chunk.js": "/MoJAArchitekci/static/js/2.721ee9ae.chunk.js",
-    "static/js/2.721ee9ae.chunk.js.map": "/MoJAArchitekci/static/js/2.721ee9ae.chunk.js.map",
-    "index.html": "/MoJAArchitekci/index.html",
-    "precache-manifest.3ccbe5a74fbef4dd8b31420791358a8b.js": "/MoJAArchitekci/precache-manifest.3ccbe5a74fbef4dd8b31420791358a8b.js",
-    "service-worker.js": "/MoJAArchitekci/service-worker.js",
-    "static/css/2.47e06e2e.chunk.css.map": "/MoJAArchitekci/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.a5fd7f07.chunk.css.map": "/MoJAArchitekci/static/css/main.a5fd7f07.chunk.css.map",
-    "static/js/2.721ee9ae.chunk.js.LICENSE": "/MoJAArchitekci/static/js/2.721ee9ae.chunk.js.LICENSE",
-    "static/media/homepage.css": "/MoJAArchitekci/static/media/background2.eb161edf.jpg",
-    "static/media/contact.css": "/MoJAArchitekci/static/media/background6.9d8fe4ba.jpg",
-    "static/media/cennik.css": "/MoJAArchitekci/static/media/kitchen.8100637c.jpg",
-    "static/media/header.css": "/MoJAArchitekci/static/media/logo.bb1a7ddc.png"
+    "main.css": "/ArchitektWnetrz/static/css/main.02b9d962.chunk.css",
+    "main.js": "/ArchitektWnetrz/static/js/main.56e9f568.chunk.js",
+    "main.js.map": "/ArchitektWnetrz/static/js/main.56e9f568.chunk.js.map",
+    "runtime-main.js": "/ArchitektWnetrz/static/js/runtime-main.76c61e00.js",
+    "runtime-main.js.map": "/ArchitektWnetrz/static/js/runtime-main.76c61e00.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/ArchitektWnetrz/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.721ee9ae.chunk.js": "/ArchitektWnetrz/static/js/2.721ee9ae.chunk.js",
+    "static/js/2.721ee9ae.chunk.js.map": "/ArchitektWnetrz/static/js/2.721ee9ae.chunk.js.map",
+    "index.html": "/ArchitektWnetrz/index.html",
+    "precache-manifest.24eb879688ac5335625dc67be18ec3b5.js": "/ArchitektWnetrz/precache-manifest.24eb879688ac5335625dc67be18ec3b5.js",
+    "service-worker.js": "/ArchitektWnetrz/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/ArchitektWnetrz/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.02b9d962.chunk.css.map": "/ArchitektWnetrz/static/css/main.02b9d962.chunk.css.map",
+    "static/js/2.721ee9ae.chunk.js.LICENSE": "/ArchitektWnetrz/static/js/2.721ee9ae.chunk.js.LICENSE",
+    "static/media/homepage.css": "/ArchitektWnetrz/static/media/background2.eb161edf.jpg",
+    "static/media/contact.css": "/ArchitektWnetrz/static/media/background6.9d8fe4ba.jpg",
+    "static/media/cennik.css": "/ArchitektWnetrz/static/media/kitchen.8100637c.jpg",
+    "static/media/header.css": "/ArchitektWnetrz/static/media/logo.bb1a7ddc.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.d32838a1.js",
+    "static/js/runtime-main.76c61e00.js",
     "static/css/2.47e06e2e.chunk.css",
     "static/js/2.721ee9ae.chunk.js",
-    "static/css/main.a5fd7f07.chunk.css",
-    "static/js/main.89ff70ec.chunk.js"
+    "static/css/main.02b9d962.chunk.css",
+    "static/js/main.56e9f568.chunk.js"
   ]
 }
