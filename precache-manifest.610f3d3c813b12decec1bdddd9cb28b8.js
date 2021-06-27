@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "061f70a5fdcc6132318014525bbcc038",
+    "revision": "d8087e3b6df9831f83a498b1f627da67",
     "url": "/ArchitektWnetrz/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ArchitektWnetrz/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "5f8516b6f05855166a74",
-    "url": "/ArchitektWnetrz/static/css/main.02b9d962.chunk.css"
+    "revision": "b0e1a55d0034a0481db4",
+    "url": "/ArchitektWnetrz/static/css/main.22cb6e08.chunk.css"
   },
   {
     "revision": "ffcd1f50773b4fb1e11e",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ArchitektWnetrz/static/js/2.721ee9ae.chunk.js.LICENSE"
   },
   {
-    "revision": "5f8516b6f05855166a74",
+    "revision": "b0e1a55d0034a0481db4",
     "url": "/ArchitektWnetrz/static/js/main.56e9f568.chunk.js"
   },
   {
