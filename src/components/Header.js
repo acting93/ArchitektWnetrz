@@ -7,11 +7,6 @@ const Header = () => {
         <>
             <header className="header col-12">
                 <div className="logo"><img src={logo} alt="Logo" /></div>
-                <div className="socials">
-                    <p>Śledź nas na:</p>
-                    <span><a href=''><i className='fab fa-facebook-f'></i></a></span>
-                    <span><a href=''><i className='fab fa-instagram'></i></a></span>
-                </div>
             </header>
         </>        
      );
